@@ -2,10 +2,6 @@
 
 ### Hi there, I'm [Sachin!] 👋. 
 
-
-<br/>
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
@@ -28,12 +24,31 @@
 
 ### - Languages and Tools...
 
-<p align="center">
+### Frameworks 
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="#">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 
 </p>
-
 ### - Blogs 🌱
-
 
 <p align="center">
 In progress...
